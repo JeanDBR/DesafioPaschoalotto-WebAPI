@@ -1,0 +1,14 @@
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\bin\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.deps.json
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\bin\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.runtimeconfig.json
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\bin\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.runtimeconfig.dev.json
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\bin\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.dll
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\bin\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.pdb
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.csprojAssemblyReference.cache
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.RazorAssemblyInfo.cache
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.RazorAssemblyInfo.cs
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.AssemblyInfoInputs.cache
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.AssemblyInfo.cs
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.dll
+C:\Users\jean_\Desktop\Desafio_Paschoalotto\DesafioPaschoalotto-WebAPI\obj\Debug\netcoreapp2.1\DesafioPaschoalotto-WebAPI.pdb
